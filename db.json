@@ -1,4 +1,16 @@
 	{
+		"clients": [
+			"nationwide.com",
+			"pfizer.com",
+			"tysonfoods.com",
+			"att.com",
+			"costco.com",
+			"metlife.com",
+			"dow.com",
+			"hcahealthcare.com",
+			"google.com",
+			"allstate.com"
+		],
 		"reviews": [
 			{
 				"name": "Mahmoud Baghagho",
